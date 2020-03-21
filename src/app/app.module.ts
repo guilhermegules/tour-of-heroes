@@ -12,7 +12,7 @@ import { HeroesComponent } from './heroes/heroes.component';
   ],
   imports: [
     BrowserModule,
-    FormsModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
